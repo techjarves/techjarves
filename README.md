@@ -66,7 +66,7 @@ I develop open-source developer tools, custom Android ROM environments, and high
 ### Activity & Statistics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=techjarves&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=techjarves&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=techjarves&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
