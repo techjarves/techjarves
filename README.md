@@ -1,4 +1,4 @@
-# Jarves
+# Tech Jarves
 
 **Software Engineer & Tech Creator**  
 *Building privacy-focused mobile, desktop, and system utilities.*
