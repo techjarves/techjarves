@@ -28,10 +28,6 @@ I develop open-source developer tools, custom Android ROM environments, and high
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Databases & Infrastructure**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ---
 
 ### Featured Repositories
@@ -70,12 +66,8 @@ I develop open-source developer tools, custom Android ROM environments, and high
 ### Activity & Statistics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=techjarves&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techjarves&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techjarves&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=techjarves&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=techjarves&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
